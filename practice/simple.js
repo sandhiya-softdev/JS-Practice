@@ -1,4 +1,3 @@
-function hello(){
-    alert("i am sandhiya")
-}
+var thing=document.getElementById("firstlabel");
+thing.textContent="first application";
 
