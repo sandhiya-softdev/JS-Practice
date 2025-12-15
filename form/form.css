@@ -28,4 +28,26 @@ body{
  .first{
     display: block;
  }
+ label{
+    font-size: 20px;
+    margin-bottom: 10px;
+ }
+ input{
+    margin-top: 10px;
+ }
+ select{
+    margin-top: 10px;
+ }
+ option{
+    margin-left:20px;
+    padding: 60px;
+ }
 
+ button{
+    margin-top: 20px;
+    padding: 10px;
+    border:none;
+    border-radius: 50px;
+    color:white;
+    background-color: blue;
+ }
