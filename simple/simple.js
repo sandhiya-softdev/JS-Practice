@@ -1,23 +1,35 @@
 
-// var things=document.getElementById("hii");
-// var things1=document.getElementById("on");
 
 
 function fname(){
-var things1=document.getElementById("on");
-things1.style.display="block";
+
+    var things=document.getElementById("hii").value;
+    var hide=document.getElementById("hii2").value;
+
+
+if(things===""){
+    document.getElementById("on").style.display="block";
+}else{
+     document.getElementById("on").style.display="none";
+}
+
+// password
+if(hide===""){
+    document.getElementById("on1").style.display="block";
+}else{
+     document.getElementById("on1").style.display="none";
+}
+
+
+
+
+
+
+
+
+
+
 
 }
-function fnamehide(){
-var things1=document.getElementById("on");
-things1.style.display="none";
 
-}
-function high(){
-    var greet=document.getElementById("on1")
-    greet.style.display="block";
-}
-function highhide(){
-    var greet=document.getElementById("on1")
-    greet.style.display="none";
-}
+
