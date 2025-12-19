@@ -26,6 +26,29 @@
 // a.pop();
 // console.log(a);
 
+// let a =["a","b"];
+// let x=a.pop();
+// let y=a.pop();
+// console.log(x,y);
+
+// let a =[];
+// let x=a.pop();
+// console.log(x);
+
+
+
+// let a = ["a"];
+// a.pop();
+// a.pop();
+// console.log(a);
+
+
+
+
+
+
+
+
 
 
 
