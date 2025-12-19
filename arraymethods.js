@@ -4,6 +4,10 @@
     
 // }
 
-let things = ["fan", "fridge","washmachine"];
-console.log(things);
+// let things = ["fan", "fridge","washmachine"];
+// console.log(things);
+
+// let xerox = ["color","print","lambination"];
+// console.log(xerox[2]);
+
 
