@@ -30,11 +30,20 @@
 // console.log(num);
 
 
-let things =[];
-things.push("milk");
-things.push("bread");
-things.push("eggs");
-console.log(things);
+// let things =[];
+// things.push("milk");
+// things.push("bread");
+// things.push("eggs");
+// console.log(things);
+
+// let a=[1,2,3];
+// console.log(a.length);
+
+let arr = ["x","y"];
+arr.push("z");
+console.log(arr.length);
+
+
 
 
 
