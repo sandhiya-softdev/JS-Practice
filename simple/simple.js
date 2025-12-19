@@ -1,35 +1,17 @@
-
-
-
-function fname(){
-
-    var things=document.getElementById("hii").value;
-    var hide=document.getElementById("hii2").value;
-
-
-if(things===""){
-    document.getElementById("on").style.display="block";
-}else{
-     document.getElementById("on").style.display="none";
+Await and async
+async function myFun(){
+    return new Promise((resolve,reject)=>{
+        setTimeout(()=>{
+            resolve("success");
+        },2000);
+    })
 }
-
-// password
-if(hide===""){
-    document.getElementById("on1").style.display="block";
-}else{
-     document.getElementById("on1").style.display="none";
+async function awaitFun(){
+    const output = await myfun();
+    console.log(output);
+    
 }
+awaitFun();
 
-
-
-
-
-
-
-
-
-
-
-}
 
 

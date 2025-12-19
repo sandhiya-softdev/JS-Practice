@@ -1,14 +1,17 @@
-// async function myFun(){
-//     return 1;
-// }
-// console.log(myFun());
+// Await and async
+async function myFun(){
+    return new Promise((resolve,reject)=>{
+        setTimeout(()=>{
+            resolve("success");
+        },2000);
+    })
+}
+async function awaitFun(){
+    const output = await myFun();
+    console.log(output);
+    
+}
+awaitFun();
 
-// async function always return promise
 
 
-let thinking = new Promise((resolve, reject)=>{
-    setTimeout(()=>{
-
-    },1000)
-
-})
