@@ -20,6 +20,26 @@
 // }
 // console.log(numbers);
 
+// let school = ["pen","penchi"];
+// school.push("eraser","scale");
+// console.log(school);
+
+// let num = [10,20];
+// num.push(30);
+// num.push(40);
+// console.log(num);
+
+
+let things =[];
+things.push("milk");
+things.push("bread");
+things.push("eggs");
+console.log(things);
+
+
+
+
+
 
 
 
