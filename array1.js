@@ -39,9 +39,9 @@
 // let a=[1,2,3];
 // console.log(a.length);
 
-let arr = ["x","y"];
-arr.push("z");
-console.log(arr.length);
+// let arr = ["x","y"];
+// arr.push("z");
+// console.log(arr.length);
 
 
 
