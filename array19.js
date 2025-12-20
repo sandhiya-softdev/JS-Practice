@@ -6,4 +6,9 @@
 // x.fill(1,0,5);
 // console.log(x);
 
+let b = [1, 2, 3, 4, 5];
+b.fill(9, 1, 4);
+
+console.log(b);
+
 
