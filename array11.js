@@ -4,5 +4,5 @@
 // console.log(p);
 // console.log(q);
 
-let d = Array.of(1, "hi", true);
-console.log(d);
+// let d = Array.of(1, "hi", true);
+// console.log(d);
