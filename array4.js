@@ -30,3 +30,7 @@
 // let a = [];
 // let x = a.shift();
 // console.log(x);
+
+let a=["hey","miss u"];
+a.shift();
+console.log(a);
