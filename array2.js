@@ -42,6 +42,11 @@
 // a.pop();
 // console.log(a);
 
+// let a = ["semeester","exam","don't come"];
+// a.pop();
+// console.log(a);
+
+
 
 
 
