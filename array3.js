@@ -30,6 +30,11 @@
 // a.pop();
 // console.log(a);
 
+let a = ["no","please"];
+a.unshift("ram");
+console.log(a);
+
+
 
 
 
