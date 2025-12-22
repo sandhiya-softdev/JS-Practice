@@ -3,6 +3,6 @@
 // console.log(a);
 
 
-// let x = [1, [2, [3, [4]]]];
-// x = x.flat();
-// console.log(x);
+let x = [1, [2, [3, [4]]]];
+x = x.flat();
+console.log(x);
