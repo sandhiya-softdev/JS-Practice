@@ -6,8 +6,8 @@
 // names.reverse();
 // console.log(names);
 
-// let dude = ["good","bad","fine"];
-// dude.reverse();
-// console.log(dude);
+let dude = ["good","bad","fine"];
+dude.reverse();
+console.log(dude);
 
 
