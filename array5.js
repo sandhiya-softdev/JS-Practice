@@ -37,9 +37,9 @@
 //  console.log(book);
 
 
-//   let book = ["a","b","c"];
-//   book.splice(0,2,"x");
-//   console.log(book);
+  let book = ["a","b","c"];
+  book.splice(0,2,"x");
+  console.log(book);
   
  
 
