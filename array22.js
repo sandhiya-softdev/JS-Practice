@@ -28,6 +28,25 @@
 // });
 // console.log(a);
 
+// let names = ["ram","sam","tom"];
+// let a=names.map(function(gn){
+//       return "Mr " + gn;
+  
+
+// });
+// console.log(a);
+
+
+let nums = [2,4,6];
+let a=nums.map(function(high){
+    return high *high;
+})
+console.log(a);
+
+
+
+
+
 
 
 
