@@ -37,11 +37,24 @@
 // console.log(a);
 
 
-let nums = [2,4,6];
-let a=nums.map(function(high){
-    return high *high;
-})
+// let nums = [2,4,6];
+// let a=nums.map(function(high){
+//     return high *high;
+// })
+// console.log(a);
+
+let nums = [1,2,3,4];
+let a=nums.map(function(kim){
+if(kim%2==0){
+return "even";
+}else{
+    return "odd"
+}
+
+
+});
 console.log(a);
+
 
 
 
