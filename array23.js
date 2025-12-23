@@ -29,6 +29,15 @@
 // console.log(b);
 
 
+let a = [2,4,6,7];
+let b= a.every(function(open){
+    return open >2;
+
+});
+console.log(b);
+
+
+
 
 
 
