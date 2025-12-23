@@ -20,6 +20,15 @@
 // });
 // console.log(b);
 
+// let a = ["cat","dog","cow"];
+// let b=a.every(function(renowned){
+//     renowned.length>2;
+
+
+// });
+// console.log(b);
+
+
 
 
 
