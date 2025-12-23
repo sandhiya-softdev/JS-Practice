@@ -14,12 +14,12 @@ const { useLayoutEffect } = require("react");
 // });
 // console.log(b);
 
-let a = [1,2,3,4,5,6,7,8,9,10];
-let b= a.map(function(hello) {
-   return hello+4;
+// let a = [1,2,3,4,5,6,7,8,9,10];
+// let b= a.map(function(hello) {
+//    return hello+4;
     
-});
-console.log(b);
+// });
+// console.log(b);
 
     
 
