@@ -11,3 +11,10 @@
 //     return hello%2===0;
 // });
 // console.log(y);
+
+// let words =["dog","apple","ant"];
+// let y=words.findIndex(function(hey){
+//     return hey==="apple";
+
+// });
+// console.log(y);
