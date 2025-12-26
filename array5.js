@@ -32,14 +32,14 @@
 // charge.splice(2,1,"x","y");
 // console.log(charge);
 
-//  let book = ["a","b","c"];
-//  book.splice(1,1);
-//  console.log(book);
+ let book = ["a","b","c"];
+ book.splice(1,1);
+ console.log(book);
 
 
-  let book = ["a","b","c"];
-  book.splice(0,2,"x");
-  console.log(book);
+  // let book = ["a","b","c"];
+  // book.splice(0,2,"x");
+  // console.log(book);
   
  
 
