@@ -12,9 +12,9 @@
 // });
 // console.log(y);
 
-// let words =["dog","apple","ant"];
-// let y=words.findIndex(function(hey){
-//     return hey==="apple";
+let words =["dog","apple","ant"];
+let y=words.findIndex(function(hey){
+    return hey==="apple";
 
-// });
-// console.log(y);
+});
+console.log(y);
