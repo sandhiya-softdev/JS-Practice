@@ -40,15 +40,15 @@
 // });
 // console.log(hey);
 
-// let people = [
-//   { name: "Ram", age: 12 },
-//   { name: "Sam", age: 18 },
-//   { name: "Tom", age: 20 }
-// ];
-// let x = people.find(function(hey){
-//     return hey.age >=18;
-// });
-// console.log(x);
+let people = [
+  { name: "Ram", age: 12 },
+  { name: "Sam", age: 18 },
+  { name: "Tom", age: 20 }
+];
+let x = people.find(function(hey){
+    return hey.age >=18;
+});
+console.log(x);
 
 
 
