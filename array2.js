@@ -37,10 +37,10 @@
 
 
 
-// let a = ["a"];
-// a.pop();
-// a.pop();
-// console.log(a);
+let a = ["a"];
+a.pop();
+a.pop();
+console.log(a);
 
 // let a = ["semeester","exam","don't come"];
 // a.pop();
