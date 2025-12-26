@@ -2,7 +2,7 @@
 // x.toString();
 // console.log(x);
 
-// let a = [1, 2, 3];
-// let x = a.toString();
+let a = [1, 2, 3];
+let x = a.toString();
 
-// console.log(x);
+console.log(x);
