@@ -25,14 +25,14 @@
 // console.log(a, x);
 
 
-// let a = ["b","c"];
-// a.unshift("a");
-// a.pop();
-// console.log(a);
-
-let a = ["no","please"];
-a.unshift("ram");
+let a = ["b","c"];
+a.unshift("a");
+a.pop();
 console.log(a);
+
+// let a = ["no","please"];
+// a.unshift("ram");
+// console.log(a);
 
 
 
