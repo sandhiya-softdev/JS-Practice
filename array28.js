@@ -12,11 +12,11 @@
 // });
 // console.log(y);
 
-// let x = [2, 5, 6, 7, 8];
-// let y = x.filter(function(hey){
-//     return hey>5;
-// });
-// console.log(y);
+let x = [2, 5, 6, 7, 8];
+let y = x.filter(function(hey){
+    return hey>5;
+});
+console.log(y);
 
 
 
