@@ -3,7 +3,7 @@
 // console.log(x);
 
 
-// let y=[1,2,4,5,6,7,8,9,10];
-// y.copyWithin(0,1,6);
-// console.log(y);
+let y=[1,2,4,5,6,7,8,9,10];
+y.copyWithin(0,1,6);
+console.log(y);
 
