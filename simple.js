@@ -32,11 +32,17 @@
 // console.log(a*b);
 
 
-const arr = [1,2,3,4,5];
+// const arr = [1,2,3,4,5];
 
-for(var i=0;i<arr.length;i++){
-    setTimeout(function(){
-        console.log(i);
+// for(var i=0;i<arr.length;i++){
+//     setTimeout(function(){
+//         console.log(i);
         
-    },1000)
-}
+//     },1000)
+// }
+
+
+const arr = [1,23,45,34];
+arr.sort();
+console.log(arr);
+
