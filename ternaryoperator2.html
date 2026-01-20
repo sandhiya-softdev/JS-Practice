@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn">button</button>
+    <div id="show"></div>
+    
+
+    <script>
+        let btn = document.getElementById("btn");
+        let show = document.getElementById("show");
+
+        btn.addEventListener("click",()=>{
+          let hello = 10;
+          hey = hello>=14?"good":"bad";
+          show.innerHTML = hey;
+        });
+    </script>
+</body>
+</html>
