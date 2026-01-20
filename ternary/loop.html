@@ -6,6 +6,22 @@
     <title>Document</title>
 </head>
 <body>
+    <button onclick="showNames()">show users</button>
+    <div id="output"></div>
     
+
+    <script>
+        let users = ["ravi","anu","karthi","meena"];
+        let output = document.getElementById("output");
+        function showNames(){
+           output.innerHTML ="";
+            for(let i=0;i<users.length;i++){
+                output.innerHTML+=users[i]+"<br>";
+            }
+            //    output.innerHTML ="";
+
+        }
+
+    </script>
 </body>
 </html>
