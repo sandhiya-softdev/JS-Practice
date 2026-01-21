@@ -6,6 +6,20 @@
     <title>Document</title>
 </head>
 <body>
+
+    <script>
+        function fnumber(...numbers){
+           let total = 0;
+           let i =0;
+           while(i<numbers.length){
+            total+=numbers[i];
+            i++;
+           }
+           return total;
+
+        }
+        console.log(fnumber(1,2,3,4,5));
+    </script>
     
 </body>
 </html>
