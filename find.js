@@ -52,4 +52,64 @@
 
 
 
+// find method condition based panni oru value mattum tharum 
+// condition satisfy agala undefined nu return pannum 
+// array.find(function(parameter){
+// return condition
+// });
+// we can also use this arrow function thana vene return pannum 
+
+// const numbers = [3,7,12,18,25,30];
+// let hello=numbers.find((m)=>m>10);
+// console.log(hello);
+
+// const numbers = [3,7,12,18,30];
+// let hey =numbers.find((m)=>m%2===0);
+// console.log(hey);
+
+
+// const names = [ "sita", "arun", "diya", "alex"];
+// let then=names.find((m)=>m==="diya");
+// console.log(then);
+
+
+// const names = [ "sita", "arun", "diya", "alex"];
+// let off=names.find((m)=>m.startsWith("a"));
+// console.log(off);
+
+
+// const numbers = [3, 7, 12, 18, 25, 30];
+// let hello =numbers.find((m)=>m/5);
+// console.log(hello);
+
+// const users = [
+//   { id: 1, name: "ram" },
+//   { id: 2, name: "arun" },
+//   { id: 3, name: "diya" }
+// ];
+
+// let hello =users.find((m)=>m.id===2);
+// console.log(hello);
+
+
+// const users = [
+//   { id: 1, name: "ram" },
+//   { id: 2, name: "arun" },
+//   { id: 3, name: "diya" }
+// ];
+//   let hello =users.find((m)=>m.name==="diya");
+// console.log(hello);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
