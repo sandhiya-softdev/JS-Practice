@@ -42,4 +42,55 @@
     
 // })
 
+// print each number *3
+
+// const nums = [2,4,6];
+// nums.forEach(num=>{
+//     console.log(num*3);
+    
+// })
+
+
+// const names = ["ram", "sita", "arun"];
+
+// names.forEach(fname=>{
+//     console.log(fname);
+    
+// })
+
+// Print only odd numbers
+// const nums = [1, 2, 3, 4, 5];
+// nums.forEach(odd=>{
+//     if(odd%2===1){
+//         return odd;
+//     }else{
+//         return nums;
+//     }
+// })
+
+// const names = ["arun", "ram", "alex", "diya"];
+
+// names.forEach(m=>{
+//     console.log(m.startsWith("a"));
+    
+
+// })
+
+// Create new array with only even numbers
+
+const nums = [1, 2, 3, 4, 5, 6];
+nums.forEach(num=>{
+    if(num%2===0){
+        return num;
+    }else{
+        nothing;
+    }
+    console.log(num);
+    
+})
+
+
+
+
+
 
