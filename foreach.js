@@ -29,6 +29,17 @@
 // array.foreach(function(parameter){
 // })
 
-const nums = [1,2,34]
+// const nums = [1,2,3,4];
+// nums.forEach(n=>{
+//     console.log(n);
+    
+// })
+
+
+// const nums = [1,2,3,4];
+// nums.forEach(n=>{
+//     console.log(n);
+    
+// })
 
 
